@@ -1,0 +1,10 @@
+*.jpg
+*.zip
+*.txt
+*.pt
+*.avi
+*.mp4
+ambiente
+*.yaml
+*.cache
+runs
