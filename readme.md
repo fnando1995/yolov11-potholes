@@ -20,7 +20,9 @@ Visit the official repository for more details: [imagededup](https://github.com/
 
 ## Data Manipulation
 * Some datasets were sourced from Roboflow.
-* The datasets were cleaned and joined using imagededup to eliminate duplicate images. For further details, refer to the notebook image_similarity.ipynb.
+* The datasets were cleaned and joined using imagededup to eliminate duplicate images. 
+
+For further details, refer to the notebook image_similarity.ipynb.
 
 
 ## Training
