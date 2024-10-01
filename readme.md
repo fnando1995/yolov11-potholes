@@ -21,7 +21,9 @@ Visit the official repository for more details: [imagededup](https://github.com/
 ## Data Manipulation
 * Some datasets were sourced from Roboflow.
 * The datasets were cleaned and joined using imagededup to eliminate duplicate images. For further details, refer to the notebook image_similarity.ipynb.
-Training
+
+
+## Training
 * The training script uses the YOLOv11 nano model to perform pothole segmentation on road images.
 * The dataset is defined via a YAML file for ease of configuration.
 * At the end of training, the model is exported to ONNX format for compatibility with other platforms.
